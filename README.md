@@ -16,7 +16,7 @@ some more text here!!
 ## sub-title 4
 
 PAdfLsdaLF SADKF sadjfk sajkfs
-Adding stuff in master after bigtrouble changes 
+Adding some normal content before rebase conflict :)
 
 ###copyright
-copyright notice.........AAA GEVER !!
+copyright notice. <@>
