@@ -15,7 +15,7 @@ some more text here!!
 
 ## sub-title 4
 
-PAdfLsdaLF SADKF sadjfk sajkfs
+some lorem ipsum content, nothing to see ;)
 Adding some normal content before rebase conflict :)
 
 ###copyright
