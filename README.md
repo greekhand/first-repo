@@ -16,6 +16,7 @@ some more text here.....
 ## sub-title 4
 
 PAdfLsdaLF SADKF sadjfk sajkfs
+Adding some normal content before rebase conflict :)
 
 ###copyright
 copyright notice...............
