@@ -2,7 +2,7 @@
 
 ## sub-title 1
 
-## sub-title 1.5
+## sub-title 1.6
 
 ## sub-title 2
 
@@ -11,12 +11,12 @@ edit the 2nd paragraph automatic lecture...
 
 ## sub-title 3
 
-some more text here.....
+some more text here!!
 
 ## sub-title 4
 
 PAdfLsdaLF SADKF sadjfk sajkfs
-Adding some normal content before rebase conflict :)
+Adding stuff in master after bigtrouble changes 
 
 ###copyright
-copyright notice...............
+copyright notice.........AAA GEVER !!
